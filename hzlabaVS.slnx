@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="hzlabaVS/hzlabaVS.vcxproj" Id="3f6ac9c7-473c-4048-bc0a-3852fadd4f96" />
+</Solution>
